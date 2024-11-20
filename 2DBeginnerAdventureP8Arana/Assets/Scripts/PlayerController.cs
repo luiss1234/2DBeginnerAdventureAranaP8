@@ -102,7 +102,7 @@ public class PlayerController : MonoBehaviour
     }
     public void ChangeHealth(int amount)
     {
-        if(amount > 0)
+        if(amount < 0)
         {
             animator.SetTrigger("Hit");
 

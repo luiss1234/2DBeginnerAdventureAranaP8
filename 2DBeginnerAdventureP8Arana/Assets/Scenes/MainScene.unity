@@ -34305,6 +34305,11 @@ PrefabInstance:
       objectReference: {fileID: 8300000, guid: c7d3a91ac32abbe47a8931a8ffc37bc6, type: 3}
     - target: {fileID: 2512926290602705618, guid: 0893282bf23566b4ca427994cb5acf33,
         type: 3}
+      propertyPath: maxHealth
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2512926290602705618, guid: 0893282bf23566b4ca427994cb5acf33,
+        type: 3}
       propertyPath: throwSound
       value: 
       objectReference: {fileID: 8300000, guid: c87de0cae68cdbb409eec8ba23a860d0, type: 3}
@@ -34357,6 +34362,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4969679632759016137, guid: 0893282bf23566b4ca427994cb5acf33,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
